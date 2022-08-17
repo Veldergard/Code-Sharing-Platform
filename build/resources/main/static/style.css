@@ -1,0 +1,15 @@
+pre {
+    border: 2px solid #ffcc66;
+    padding: 20px;
+    background: #ffff66;
+    font-size: 18px;
+}
+
+#load_date {
+    float: right;
+    font-size: 24px;
+}
+
+div {
+    margin-bottom: 40px;
+}
